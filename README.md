@@ -2,6 +2,10 @@
 
 # <p style="text-align: center;">Hi there. I'm Joedel Salas Lagong</p>
 
+- 🏫 I'm currently studying at College of Mary Immaculate.
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning React.JS
+
 <!--
 **joedellagongg/joedellagongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
