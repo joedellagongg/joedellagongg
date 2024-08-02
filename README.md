@@ -1,6 +1,8 @@
-## Hi there 👋
 
-<p style="text-align: center;">Hi there. I'm Joedel Salas Lagong</p>
+
+<p align="center">
+    Hi there 👋, Joedel Salas Lagong
+</p>
 
 - 🏫 I'm currently studying at College of Mary Immaculate.
 - 🔭 I’m currently working on my portfolio
