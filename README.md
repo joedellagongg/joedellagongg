@@ -38,36 +38,5 @@
 <a src=""> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 
 <h6>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
-<a src=""> <img src=""></a>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joedellagongg&show_icons=true&locale=en&layout=compact" alt="joedellagongg" /></p>
