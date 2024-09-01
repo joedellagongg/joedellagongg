@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joedel Lagong</h1>
 <h3 align="center">A passionate developer from The Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joedellagongg&label=Profile%20views&color=0e75b6&style=flat" alt="joedellagongg" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joedellagongg&label=Profile%20views&color=0e75b6&style=flat" alt="joedellagongg" /> </p> -->
+<br>
 
 -   🔭 I’m currently working on **Portfolio**
 
@@ -9,11 +10,19 @@
 
 -   📫 How to reach me **joedelsalaslagong@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<p>
+## _Connect with me_
+
+<!-- <h3 align="center">Connect with me:</h3>
+# -->
+
+<a src="https://www.facebook.com/jowdeeel/">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<a src="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfScrMnwRQhpnBwcfLDwdrfNLZZSdFHgckVtgpGbcqxnDrzqFBCmGGbrWzDjdBpDJLFGq">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+## _Tech Stack_
 
 <h6 align="center">
 <a src="https://github.com/joedellagongg"> <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"> </a>
@@ -36,6 +45,17 @@
 <a src=""> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a src=""> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a src=""> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a src=""> <img src="https://img.shields.io/badge/Expo-515151?style=for-the-badge&logo=expo&logoColor=white"></a>
+
+##
+
+<!-- <a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a>
+<a><img src=""></a> -->
 
 <h6>
 
