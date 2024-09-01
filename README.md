@@ -18,7 +18,6 @@
 <a src="https://www.facebook.com/jowdeeel/">
 <img src="https://img.shields.io/badge/| facebook.com/jowdeeel/-blue?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<br>
 <a src="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfScrMnwRQhpnBwcfLDwdrfNLZZSdFHgckVtgpGbcqxnDrzqFBCmGGbrWzDjdBpDJLFGq">
 <img src="https://img.shields.io/badge/| joedelsalaslagong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
