@@ -10,19 +10,20 @@
 
 -   📫 How to reach me **joedelsalaslagong@gmail.com**
 
-## _Connect with me_
+## 🔗 _Connect with me_
 
 <!-- <h3 align="center">Connect with me:</h3>
 # -->
 
 <a src="https://www.facebook.com/jowdeeel/">
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/| facebook.com/jowdeeel/-blue?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+<br>
 <a src="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfScrMnwRQhpnBwcfLDwdrfNLZZSdFHgckVtgpGbcqxnDrzqFBCmGGbrWzDjdBpDJLFGq">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/| joedelsalaslagong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-## _Tech Stack_
+## 💻  _Tech Stack_ 
 
 <h6 align="center">
 <a src="https://github.com/joedellagongg"> <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"> </a>
@@ -49,6 +50,7 @@
 
 ##
 
+<a src=""><img src=""></a>
 <!-- <a><img src=""></a>
 <a><img src=""></a>
 <a><img src=""></a>
