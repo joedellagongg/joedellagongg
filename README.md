@@ -46,18 +46,3 @@
 <a src=""> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a src=""> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a src=""> <img src="https://img.shields.io/badge/Expo-515151?style=for-the-badge&logo=expo&logoColor=white"></a>
-
-##
-
-<a src=""><img src=""></a>
-<!-- <a><img src=""></a>
-<a><img src=""></a>
-<a><img src=""></a>
-<a><img src=""></a>
-<a><img src=""></a>
-<a><img src=""></a>
-<a><img src=""></a> -->
-
-<h6>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joedellagongg&show_icons=true&locale=en&layout=compact" alt="joedellagongg" /></p>
